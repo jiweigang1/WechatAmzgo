@@ -1,0 +1,1 @@
+"D:\Software\微信web开发者工具\cli.bat" cloud functions deploy --e cloud1-0g5cd1fn02591a91 --n quickstartFunctions --r --project "E:\Svn\Github\WechatAmzgo" --report_first --report
